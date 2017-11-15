@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "F:\New folder\miwa$to\BankLib\BankApp\BankApp.csproj", "{13AC0F95-1CBE-4B92-A1B1-57BAB7FF26A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "BankApp\BankApp.csproj", "{13AC0F95-1CBE-4B92-A1B1-57BAB7FF26A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankG", "F:\New folder\miwa$to\BankLib\BankG\BankG.csproj", "{1A859FDF-D16E-4A03-A8C4-2170E44BBBE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankG", "BankG\BankG.csproj", "{1A859FDF-D16E-4A03-A8C4-2170E44BBBE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLib", "F:\New folder\miwa$to\BankLib\BankLib\BankLib.csproj", "{B3AFAE78-8C31-4B33-BD46-50045CE85D70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLib", "BankLib\BankLib.csproj", "{B3AFAE78-8C31-4B33-BD46-50045CE85D70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "F:\New folder\miwa$to\BankLib\TestConsole\TestConsole.csproj", "{30C31AD5-9475-48EE-865B-278441E9BE11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSort", "GenericSort\GenericSort.csproj", "{D9CDA60E-C20F-44CF-B017-EAB305D9C387}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSort", "F:\New folder\miwa$to\GenericSort\GenericSort\GenericSort.csproj", "{D9CDA60E-C20F-44CF-B017-EAB305D9C387}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{30C31AD5-9475-48EE-865B-278441E9BE11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +31,14 @@ Global
 		{B3AFAE78-8C31-4B33-BD46-50045CE85D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3AFAE78-8C31-4B33-BD46-50045CE85D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3AFAE78-8C31-4B33-BD46-50045CE85D70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{30C31AD5-9475-48EE-865B-278441E9BE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30C31AD5-9475-48EE-865B-278441E9BE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30C31AD5-9475-48EE-865B-278441E9BE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30C31AD5-9475-48EE-865B-278441E9BE11}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D9CDA60E-C20F-44CF-B017-EAB305D9C387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D9CDA60E-C20F-44CF-B017-EAB305D9C387}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9CDA60E-C20F-44CF-B017-EAB305D9C387}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9CDA60E-C20F-44CF-B017-EAB305D9C387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C31AD5-9475-48EE-865B-278441E9BE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C31AD5-9475-48EE-865B-278441E9BE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C31AD5-9475-48EE-865B-278441E9BE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C31AD5-9475-48EE-865B-278441E9BE11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
